@@ -14,6 +14,8 @@
         <module>Web-Service1</module>
         <module>Web-Service2</module>
         <module>Ribbon-Consumer</module>
+        <module>Service-SSO</module>
+        <module>Auth-Service</module>
     </modules>
 
     <parent>
